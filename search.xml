@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>L</title>
+    <url>/2019/11/17/A/</url>
+    <content><![CDATA[<h4 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h4><p>  (F1=1，F2=1，Fn=Fn−1+Fn−2(n≥3))(F_1=1，F_2=1，F_n=F_{n-1}+F_{n-2}(n\ge3))(F1=1，F2=1，Fn=Fn−1+Fn−2(n≥3))，现在她想知道数列的第(n)项是奇数还是偶数，请你编程实现。</p>
+]]></content>
+      <categories>
+        <category>acm</category>
+      </categories>
+      <tags>
+        <tag>acm</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>NYOJ-1239</title>
     <url>/2019/05/04/NYOJ-1239/</url>
     <content><![CDATA[<h2 id="第八届河南省acm————引水工程-NYOJ-1239"><a href="#第八届河南省acm————引水工程-NYOJ-1239" class="headerlink" title="第八届河南省acm————引水工程 NYOJ-1239"></a>第八届河南省acm————引水工程 <a href="http://nyoj.top/problem/1239" target="_blank" rel="noopener">NYOJ-1239</a></h2><h3 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h3><blockquote>
