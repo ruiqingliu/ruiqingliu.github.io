@@ -13,7 +13,7 @@ jQuery(document).ready(function($) {
             "left": x,
             "position": "absolute",
             "font-weight": "bold",
-            "color": "#FF0000"
+            "color": s()
         });
         $("body").append($i);
         $i.animate({
@@ -27,7 +27,9 @@ jQuery(document).ready(function($) {
     });
     setTimeout('delay()', 2000);
 });
-
+function s() {
+    return "rgb(" + ~~(255 * Math.random()) + "," + ~~(255 * Math.random()) + "," + ~~(255 * Math.random()) + ")"
+  }
 function delay() {
     $(".buryit").removeAttr("onclick");
 }
